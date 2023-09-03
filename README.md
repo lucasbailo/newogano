@@ -45,7 +45,7 @@ return (
 
 ## Built with
 
-- Semantic HTML5;
+- REACT;
 - CSS custom properties;
 - JavaScript;
 
